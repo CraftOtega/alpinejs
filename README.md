@@ -1,7 +1,6 @@
 # Alpinejs Course
 Alpine tutorial @TheCodeholic
 
-The course is splitted into 3 parts: Alpine.js Basics, Creating Alpine.js Components, Alpine.js Plugins
 
 ## Alpine.js Basics
 In basics section we will learn all the basic things about alpine.js: its directives and magic properties.
