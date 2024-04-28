@@ -1,5 +1,3 @@
-# Alpinejs Course
-Alpine tutorial @TheCodeholic
 
 
 ## Alpine.js Basics
